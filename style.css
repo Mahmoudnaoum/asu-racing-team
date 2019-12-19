@@ -1,0 +1,10 @@
+.btn {
+    border-radius: 0;
+    background-color: black;
+}
+.form-control {
+    border-radius: 0;
+}
+span {
+    font-weight: 500;
+}
